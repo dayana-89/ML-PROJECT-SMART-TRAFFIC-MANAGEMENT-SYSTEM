@@ -1,0 +1,501 @@
+Weather,Traffic_Signal,Road_Type,Vehicle_Type,Day_Type,Time_of_Day,Accident_Status,Road_Condition,Congestion_Level,Traffic_Direction,Vehicle_Count,Average_Speed,Travel_Time,Queue_Length,Number_of_Lanes,Signal_Wait_Time
+Cloudy,Working,Urban,Truck,Weekday,Afternoon,Yes,Poor,Low,North,649,30,32,98,3,151
+Foggy,Working,Residential,Truck,Weekend,Evening,Yes,Moderate,Low,West,803,31,73,103,5,39
+Clear,Working,Highway,Truck,Weekend,Afternoon,No,Moderate,Medium,East,903,39,67,183,2,57
+Cloudy,Not Working,Highway,Bus,Weekend,Afternoon,Yes,Poor,Medium,East,142,34,63,27,3,30
+Cloudy,Working,Highway,Bike,Weekend,Night,No,Good,Low,West,135,37,9,128,4,18
+Foggy,Working,Highway,Auto,Weekday,Afternoon,No,Moderate,High,South,93,74,55,169,2,122
+Clear,Not Working,Industrial,Car,Weekday,Morning,No,Good,High,East,186,54,25,47,2,49
+Clear,Working,Highway,Bike,Weekday,Afternoon,No,Moderate,High,East,470,77,16,39,2,176
+Cloudy,Not Working,Industrial,Truck,Weekday,Night,No,Poor,Low,West,123,16,54,96,4,55
+Rainy,Not Working,Industrial,Bike,Weekend,Afternoon,Yes,Poor,Medium,East,597,58,8,190,1,175
+Cloudy,Working,Highway,Auto,Weekend,Morning,No,Poor,Low,South,662,18,117,199,5,123
+Cloudy,Not Working,Highway,Car,Weekday,Morning,Yes,Moderate,Medium,West,561,45,46,113,3,155
+Cloudy,Working,Urban,Car,Weekend,Morning,Yes,Good,High,South,205,92,88,131,1,23
+Cloudy,Not Working,Residential,Auto,Weekend,Night,No,Good,High,East,987,10,42,165,3,86
+Foggy,Not Working,Highway,Auto,Weekend,Night,No,Good,Medium,East,304,19,29,154,5,80
+Clear,Working,Urban,Truck,Weekday,Evening,No,Moderate,Medium,South,220,45,18,136,4,96
+Foggy,Not Working,Urban,Car,Weekday,Night,No,Moderate,Low,North,777,82,79,110,2,37
+Foggy,Not Working,Residential,Bike,Weekday,Morning,No,Moderate,High,East,219,55,36,143,2,151
+Foggy,Not Working,Industrial,Bus,Weekend,Morning,Yes,Moderate,Low,North,813,41,15,183,4,32
+Cloudy,Not Working,Highway,Bus,Weekday,Night,No,Moderate,Low,East,921,41,65,75,1,127
+Rainy,Not Working,Residential,Auto,Weekday,Afternoon,No,Good,Low,North,371,15,22,30,1,130
+Clear,Working,Highway,Truck,Weekday,Night,Yes,Moderate,High,North,616,57,31,118,3,41
+Rainy,Not Working,Urban,Bus,Weekday,Night,Yes,Moderate,Low,North,505,47,59,141,4,158
+Foggy,Working,Urban,Car,Weekday,Morning,No,Good,Low,South,993,26,58,24,1,103
+Foggy,Not Working,Industrial,Auto,Weekday,Evening,Yes,Moderate,Low,North,652,83,86,33,4,102
+Rainy,Working,Urban,Bike,Weekend,Morning,No,Good,Low,North,839,36,91,66,5,131
+Rainy,Working,Urban,Auto,Weekend,Evening,Yes,Good,Low,North,662,63,79,151,2,172
+Rainy,Not Working,Residential,Bike,Weekday,Morning,Yes,Poor,Low,East,204,59,25,117,2,84
+Foggy,Not Working,Highway,Auto,Weekday,Night,No,Poor,High,North,938,44,48,72,2,42
+Foggy,Not Working,Highway,Auto,Weekend,Morning,Yes,Poor,Low,East,398,94,9,25,4,81
+Clear,Working,Residential,Auto,Weekend,Morning,Yes,Poor,Medium,North,500,34,91,147,4,130
+Clear,Not Working,Industrial,Bike,Weekday,Morning,Yes,Moderate,Low,North,925,37,45,191,3,91
+Foggy,Working,Highway,Bike,Weekday,Night,Yes,Poor,Low,South,702,24,63,103,2,58
+Rainy,Working,Urban,Auto,Weekday,Night,Yes,Good,High,East,222,13,93,9,3,154
+Rainy,Working,Highway,Bus,Weekday,Night,Yes,Moderate,High,North,59,82,109,66,2,20
+Clear,Not Working,Urban,Truck,Weekend,Night,No,Poor,Medium,East,789,36,58,151,3,32
+Foggy,Not Working,Industrial,Truck,Weekday,Evening,No,Good,Medium,East,314,35,78,4,3,167
+Clear,Working,Residential,Truck,Weekday,Evening,Yes,Moderate,High,West,487,28,26,194,5,177
+Clear,Working,Highway,Bike,Weekday,Afternoon,No,Moderate,High,South,809,26,87,185,3,50
+Cloudy,Not Working,Residential,Bike,Weekday,Night,No,Poor,Low,South,296,52,69,26,4,76
+Cloudy,Working,Highway,Bus,Weekend,Evening,No,Moderate,High,South,716,50,68,112,3,89
+Cloudy,Not Working,Urban,Truck,Weekend,Morning,Yes,Good,Medium,West,595,51,75,14,2,30
+Rainy,Working,Residential,Truck,Weekend,Night,No,Moderate,Low,West,548,59,8,162,3,89
+Foggy,Not Working,Highway,Auto,Weekday,Afternoon,Yes,Good,Medium,South,178,93,69,104,1,157
+Foggy,Working,Urban,Bike,Weekday,Afternoon,No,Moderate,Low,West,721,49,19,180,2,69
+Foggy,Not Working,Residential,Truck,Weekend,Afternoon,Yes,Poor,High,West,650,48,108,43,1,138
+Foggy,Working,Residential,Bus,Weekday,Morning,Yes,Good,Medium,West,654,32,80,25,2,155
+Cloudy,Not Working,Highway,Bus,Weekday,Evening,No,Moderate,Low,South,376,61,26,174,4,119
+Rainy,Not Working,Highway,Truck,Weekend,Morning,No,Moderate,Low,South,802,56,90,161,4,68
+Rainy,Working,Highway,Bike,Weekend,Night,Yes,Moderate,High,South,884,72,118,94,4,91
+Cloudy,Working,Urban,Bus,Weekend,Afternoon,No,Good,High,West,453,78,51,177,1,175
+Rainy,Not Working,Highway,Auto,Weekend,Morning,No,Good,High,South,678,52,85,83,5,111
+Cloudy,Working,Residential,Bus,Weekday,Morning,No,Good,Medium,West,655,57,97,139,2,155
+Foggy,Not Working,Residential,Car,Weekday,Evening,Yes,Poor,Low,North,724,43,50,131,4,100
+Cloudy,Working,Highway,Car,Weekend,Evening,Yes,Poor,High,West,660,49,18,86,2,162
+Foggy,Not Working,Highway,Bike,Weekday,Afternoon,No,Good,Medium,East,674,84,54,175,1,81
+Foggy,Not Working,Industrial,Truck,Weekend,Morning,No,Moderate,Medium,South,408,70,24,182,5,150
+Clear,Not Working,Residential,Bike,Weekend,Morning,No,Poor,Medium,South,652,59,54,111,1,91
+Cloudy,Not Working,Urban,Bike,Weekday,Evening,Yes,Good,High,East,907,76,116,128,2,153
+Clear,Not Working,Industrial,Bike,Weekend,Morning,Yes,Moderate,High,West,767,71,37,88,5,61
+Cloudy,Not Working,Highway,Bike,Weekday,Morning,No,Poor,Low,North,66,67,63,65,5,107
+Cloudy,Working,Highway,Auto,Weekday,Morning,No,Moderate,Low,East,323,42,47,157,1,155
+Clear,Working,Residential,Auto,Weekday,Evening,No,Moderate,High,East,734,84,83,130,4,95
+Clear,Working,Highway,Bus,Weekday,Afternoon,No,Moderate,Medium,West,165,25,16,121,2,49
+Cloudy,Not Working,Urban,Car,Weekend,Night,No,Moderate,Medium,South,910,91,44,148,3,176
+Rainy,Not Working,Residential,Bike,Weekday,Afternoon,No,Poor,Medium,West,742,57,24,83,3,92
+Foggy,Not Working,Highway,Bus,Weekend,Night,Yes,Poor,Low,East,140,19,98,176,1,119
+Clear,Not Working,Residential,Car,Weekend,Morning,No,Poor,Medium,East,131,91,42,115,2,51
+Foggy,Working,Highway,Truck,Weekend,Afternoon,Yes,Good,Low,South,373,47,7,189,2,172
+Rainy,Working,Highway,Auto,Weekend,Night,No,Poor,Low,South,163,28,32,115,1,174
+Rainy,Not Working,Highway,Car,Weekday,Evening,No,Moderate,Medium,South,818,45,60,37,2,139
+Rainy,Working,Urban,Truck,Weekday,Evening,Yes,Poor,Medium,West,107,68,94,142,4,54
+Clear,Working,Urban,Car,Weekend,Afternoon,Yes,Moderate,High,South,203,72,98,109,1,88
+Rainy,Not Working,Residential,Auto,Weekend,Afternoon,Yes,Good,High,East,926,86,17,179,4,95
+Clear,Working,Highway,Auto,Weekday,Morning,Yes,Moderate,Medium,East,453,55,81,45,2,138
+Rainy,Not Working,Highway,Bus,Weekend,Afternoon,No,Moderate,Low,North,677,12,70,24,1,95
+Foggy,Working,Urban,Bike,Weekday,Morning,Yes,Moderate,Low,West,904,83,41,20,2,141
+Foggy,Not Working,Highway,Car,Weekend,Morning,No,Good,Low,North,315,74,53,120,1,113
+Cloudy,Not Working,Urban,Car,Weekday,Evening,Yes,Poor,Low,East,364,17,106,121,2,61
+Foggy,Not Working,Highway,Truck,Weekend,Evening,No,Poor,Low,North,764,60,70,132,4,35
+Cloudy,Not Working,Residential,Auto,Weekend,Night,No,Good,High,East,90,90,40,69,4,25
+Foggy,Working,Highway,Car,Weekday,Evening,No,Moderate,Medium,North,154,82,58,112,2,94
+Clear,Not Working,Highway,Auto,Weekend,Evening,No,Poor,High,South,950,15,30,106,1,44
+Foggy,Not Working,Industrial,Car,Weekend,Afternoon,No,Good,Low,North,939,98,79,111,3,116
+Cloudy,Not Working,Urban,Bus,Weekday,Evening,No,Poor,Low,South,242,48,76,107,4,49
+Cloudy,Working,Highway,Bike,Weekend,Night,Yes,Good,Low,South,450,69,112,46,4,81
+Rainy,Not Working,Highway,Car,Weekday,Afternoon,No,Moderate,Low,West,327,37,44,195,3,91
+Clear,Working,Industrial,Auto,Weekday,Night,Yes,Poor,Medium,South,403,63,47,90,2,152
+Foggy,Not Working,Industrial,Bus,Weekend,Evening,Yes,Good,Low,South,798,46,26,17,1,105
+Rainy,Working,Urban,Car,Weekend,Night,No,Poor,Medium,North,986,18,24,148,2,121
+Foggy,Working,Industrial,Truck,Weekend,Afternoon,Yes,Poor,Low,East,782,91,12,103,5,96
+Foggy,Not Working,Residential,Bike,Weekend,Morning,No,Poor,Medium,West,629,65,33,150,4,149
+Rainy,Working,Industrial,Car,Weekend,Night,Yes,Poor,High,South,758,68,44,191,5,32
+Rainy,Not Working,Residential,Bus,Weekend,Night,No,Good,Low,West,305,94,94,194,4,173
+Rainy,Not Working,Urban,Truck,Weekend,Afternoon,Yes,Moderate,Medium,North,700,11,34,39,4,29
+Rainy,Not Working,Urban,Bus,Weekday,Afternoon,No,Good,High,South,873,70,85,137,5,62
+Rainy,Working,Urban,Bus,Weekend,Night,No,Good,Low,North,996,67,88,88,5,45
+Foggy,Working,Urban,Truck,Weekday,Evening,No,Good,Low,West,710,69,59,179,2,138
+Rainy,Not Working,Urban,Bus,Weekend,Night,No,Moderate,Low,North,148,49,20,199,5,79
+Clear,Not Working,Residential,Truck,Weekend,Afternoon,Yes,Poor,Medium,West,637,45,50,60,2,42
+Cloudy,Working,Residential,Car,Weekday,Morning,No,Poor,Medium,North,331,46,66,191,2,138
+Rainy,Not Working,Urban,Truck,Weekend,Morning,Yes,Poor,High,West,932,88,111,4,2,177
+Rainy,Not Working,Industrial,Truck,Weekend,Evening,Yes,Moderate,Medium,East,452,27,11,121,4,79
+Foggy,Not Working,Highway,Bike,Weekday,Night,Yes,Poor,Medium,North,158,72,84,180,4,146
+Rainy,Working,Urban,Truck,Weekend,Morning,No,Moderate,Low,North,749,31,49,54,5,70
+Rainy,Working,Industrial,Truck,Weekend,Night,Yes,Poor,Low,East,248,20,63,36,4,172
+Rainy,Working,Highway,Car,Weekend,Afternoon,Yes,Poor,Low,East,352,67,115,55,5,7
+Foggy,Not Working,Urban,Bike,Weekday,Morning,Yes,Good,Low,North,376,66,60,186,4,121
+Rainy,Not Working,Urban,Auto,Weekend,Evening,No,Moderate,Low,East,203,86,52,101,1,103
+Cloudy,Not Working,Residential,Car,Weekend,Afternoon,No,Good,Low,South,601,13,31,92,1,156
+Foggy,Working,Highway,Car,Weekend,Evening,Yes,Good,Low,West,694,95,57,196,5,23
+Cloudy,Not Working,Highway,Auto,Weekend,Afternoon,No,Good,High,West,454,16,91,72,4,150
+Foggy,Not Working,Industrial,Truck,Weekday,Morning,No,Moderate,High,West,511,70,92,58,4,120
+Rainy,Not Working,Residential,Bus,Weekday,Evening,Yes,Moderate,High,South,181,63,77,1,2,129
+Cloudy,Not Working,Residential,Bike,Weekend,Evening,Yes,Poor,High,East,840,97,39,192,3,92
+Foggy,Working,Residential,Bus,Weekend,Afternoon,No,Good,Low,East,923,77,55,103,5,39
+Clear,Working,Residential,Auto,Weekday,Evening,Yes,Poor,High,North,133,88,88,187,3,5
+Rainy,Not Working,Highway,Car,Weekday,Afternoon,No,Good,Low,East,448,10,41,50,3,157
+Foggy,Working,Highway,Car,Weekend,Afternoon,No,Moderate,High,North,803,64,110,29,5,177
+Clear,Working,Urban,Bike,Weekday,Afternoon,No,Moderate,Medium,South,677,12,85,10,4,130
+Foggy,Not Working,Urban,Car,Weekend,Afternoon,No,Moderate,High,West,158,87,115,107,5,93
+Clear,Not Working,Residential,Car,Weekday,Morning,No,Good,High,West,270,47,99,75,3,148
+Rainy,Working,Residential,Bike,Weekday,Afternoon,No,Moderate,Low,West,953,10,61,166,4,151
+Cloudy,Not Working,Residential,Bike,Weekday,Night,Yes,Good,High,East,602,47,12,89,1,155
+Clear,Working,Urban,Auto,Weekday,Evening,Yes,Poor,Medium,North,417,94,83,122,5,29
+Foggy,Not Working,Industrial,Car,Weekend,Night,No,Good,Low,North,196,38,99,199,5,20
+Rainy,Working,Industrial,Car,Weekday,Morning,No,Poor,Low,South,161,14,98,190,4,77
+Clear,Not Working,Urban,Auto,Weekday,Night,No,Good,High,East,664,83,114,191,1,133
+Foggy,Working,Urban,Truck,Weekend,Evening,Yes,Poor,Low,South,607,30,24,188,1,46
+Foggy,Working,Urban,Truck,Weekday,Night,No,Moderate,Low,North,973,80,107,124,4,151
+Foggy,Working,Urban,Truck,Weekday,Morning,Yes,Poor,Low,North,543,76,57,181,2,166
+Clear,Not Working,Urban,Auto,Weekend,Afternoon,No,Moderate,Low,West,554,56,16,121,5,84
+Clear,Working,Urban,Car,Weekday,Night,No,Moderate,Low,East,524,93,53,93,5,108
+Clear,Working,Residential,Auto,Weekend,Morning,Yes,Poor,Low,North,885,92,21,102,3,150
+Cloudy,Not Working,Residential,Auto,Weekend,Morning,Yes,Good,Medium,West,939,44,68,185,4,38
+Clear,Not Working,Residential,Truck,Weekend,Evening,No,Good,High,East,320,77,46,183,3,93
+Clear,Working,Residential,Bus,Weekend,Evening,No,Good,Medium,South,470,78,98,161,3,129
+Clear,Working,Urban,Car,Weekday,Night,No,Good,Low,East,946,10,33,30,1,49
+Cloudy,Not Working,Industrial,Truck,Weekend,Afternoon,Yes,Good,Low,East,756,77,23,51,5,138
+Clear,Not Working,Highway,Bus,Weekday,Morning,Yes,Moderate,High,North,416,21,114,88,3,25
+Foggy,Not Working,Urban,Bus,Weekday,Night,Yes,Good,Medium,North,329,69,15,75,1,126
+Clear,Not Working,Highway,Bike,Weekday,Morning,Yes,Moderate,High,East,332,36,102,128,4,74
+Foggy,Not Working,Industrial,Car,Weekday,Morning,Yes,Moderate,Medium,North,89,65,54,182,3,100
+Foggy,Working,Residential,Bus,Weekday,Afternoon,Yes,Moderate,Low,North,238,32,75,21,5,109
+Foggy,Not Working,Industrial,Truck,Weekday,Afternoon,No,Poor,High,North,213,34,112,39,3,52
+Cloudy,Working,Urban,Bike,Weekday,Night,No,Poor,High,West,585,30,62,100,4,43
+Cloudy,Working,Residential,Car,Weekday,Afternoon,Yes,Moderate,Low,West,585,70,38,110,3,35
+Cloudy,Working,Urban,Auto,Weekday,Afternoon,No,Poor,High,East,53,72,24,128,5,14
+Clear,Not Working,Residential,Truck,Weekday,Night,No,Good,Medium,North,884,61,54,64,1,34
+Foggy,Working,Highway,Bus,Weekend,Afternoon,Yes,Good,Medium,West,339,97,106,190,5,22
+Cloudy,Working,Highway,Bus,Weekend,Evening,No,Moderate,Medium,East,482,34,92,181,1,92
+Cloudy,Not Working,Highway,Truck,Weekend,Morning,Yes,Good,Medium,North,520,64,14,169,2,129
+Clear,Working,Industrial,Bus,Weekday,Morning,Yes,Moderate,Low,South,230,55,36,148,5,77
+Cloudy,Working,Urban,Bike,Weekend,Morning,No,Moderate,High,North,297,41,56,78,5,19
+Clear,Not Working,Industrial,Car,Weekend,Morning,Yes,Good,Medium,North,677,64,19,21,4,8
+Rainy,Working,Highway,Bike,Weekend,Night,Yes,Poor,Low,West,328,14,105,165,3,172
+Cloudy,Working,Urban,Bus,Weekday,Morning,Yes,Good,High,East,926,45,88,98,1,13
+Rainy,Working,Highway,Auto,Weekday,Morning,Yes,Good,High,East,630,58,7,7,1,113
+Clear,Not Working,Industrial,Car,Weekday,Morning,Yes,Moderate,Low,West,912,67,41,189,4,141
+Foggy,Not Working,Industrial,Car,Weekday,Morning,Yes,Moderate,Low,North,303,48,44,174,4,158
+Cloudy,Not Working,Industrial,Truck,Weekend,Evening,Yes,Moderate,Medium,South,230,89,76,16,3,136
+Clear,Working,Highway,Truck,Weekend,Morning,Yes,Moderate,High,North,879,94,44,16,3,20
+Foggy,Working,Urban,Auto,Weekend,Evening,No,Poor,High,North,730,70,112,89,5,147
+Foggy,Not Working,Urban,Car,Weekend,Night,No,Poor,Low,South,874,18,60,140,2,103
+Rainy,Working,Highway,Auto,Weekday,Afternoon,No,Poor,High,West,558,15,27,144,3,125
+Clear,Working,Urban,Truck,Weekday,Morning,Yes,Moderate,Medium,East,810,44,108,165,4,56
+Foggy,Not Working,Highway,Truck,Weekday,Afternoon,Yes,Moderate,High,West,749,48,15,80,3,73
+Cloudy,Not Working,Urban,Car,Weekend,Afternoon,No,Moderate,Low,West,615,31,114,77,1,9
+Cloudy,Working,Residential,Bike,Weekday,Night,No,Poor,Low,North,375,50,68,172,2,24
+Rainy,Working,Residential,Bus,Weekday,Afternoon,No,Moderate,Medium,East,406,14,12,5,5,83
+Foggy,Working,Industrial,Truck,Weekend,Evening,Yes,Good,Medium,East,874,51,97,162,1,150
+Clear,Not Working,Residential,Truck,Weekend,Afternoon,No,Good,High,West,699,96,98,109,1,115
+Cloudy,Not Working,Residential,Bike,Weekday,Afternoon,No,Moderate,High,South,729,90,60,13,2,6
+Foggy,Not Working,Residential,Bike,Weekday,Afternoon,Yes,Good,Low,West,440,85,64,71,5,97
+Foggy,Not Working,Highway,Auto,Weekday,Morning,No,Good,Medium,South,664,96,14,188,4,17
+Rainy,Working,Residential,Auto,Weekday,Morning,Yes,Poor,Medium,East,983,89,43,142,5,8
+Cloudy,Not Working,Residential,Bus,Weekday,Evening,Yes,Moderate,Medium,West,134,76,32,53,3,174
+Cloudy,Not Working,Industrial,Bus,Weekday,Evening,Yes,Moderate,High,North,366,39,53,26,1,113
+Clear,Not Working,Residential,Car,Weekend,Morning,No,Poor,Medium,West,261,66,40,12,3,78
+Cloudy,Not Working,Residential,Auto,Weekend,Evening,No,Good,Low,East,564,95,17,158,4,99
+Clear,Not Working,Urban,Truck,Weekend,Morning,Yes,Good,Low,North,433,82,100,162,3,109
+Cloudy,Working,Industrial,Auto,Weekday,Night,No,Moderate,High,North,740,38,40,59,5,12
+Rainy,Working,Industrial,Truck,Weekend,Afternoon,No,Good,High,South,391,46,105,5,3,71
+Cloudy,Not Working,Industrial,Bike,Weekday,Afternoon,No,Poor,Medium,North,864,96,30,196,4,114
+Clear,Working,Industrial,Auto,Weekday,Evening,No,Poor,High,North,893,22,90,57,4,13
+Clear,Not Working,Industrial,Bike,Weekend,Morning,Yes,Moderate,Low,West,87,41,8,48,4,121
+Rainy,Not Working,Industrial,Bus,Weekday,Morning,No,Poor,Medium,East,560,55,99,150,5,15
+Cloudy,Working,Highway,Bus,Weekday,Evening,Yes,Poor,Low,South,469,32,86,161,4,103
+Cloudy,Working,Residential,Car,Weekend,Morning,Yes,Moderate,Medium,West,800,54,68,25,1,46
+Rainy,Not Working,Industrial,Auto,Weekend,Night,No,Poor,High,North,218,26,42,46,4,145
+Cloudy,Not Working,Residential,Bike,Weekend,Afternoon,Yes,Poor,Medium,North,958,94,92,4,3,168
+Cloudy,Not Working,Residential,Truck,Weekday,Evening,No,Poor,Medium,South,392,75,91,19,3,124
+Clear,Working,Highway,Bus,Weekend,Evening,No,Good,Low,East,875,15,26,133,3,145
+Cloudy,Not Working,Industrial,Bus,Weekend,Morning,Yes,Moderate,Low,South,355,27,6,197,5,16
+Cloudy,Not Working,Urban,Truck,Weekday,Evening,Yes,Moderate,Medium,West,591,31,35,58,3,41
+Rainy,Not Working,Highway,Bike,Weekend,Night,Yes,Moderate,High,South,751,42,15,191,5,78
+Rainy,Working,Urban,Bike,Weekend,Morning,Yes,Good,High,North,918,39,96,145,5,77
+Foggy,Not Working,Residential,Auto,Weekend,Morning,No,Good,Low,West,586,90,50,131,4,56
+Clear,Not Working,Residential,Auto,Weekday,Morning,No,Moderate,High,North,161,41,100,16,1,134
+Cloudy,Working,Highway,Car,Weekday,Morning,No,Good,Low,East,460,51,66,13,4,60
+Cloudy,Not Working,Highway,Bus,Weekday,Night,Yes,Moderate,High,North,996,87,73,12,4,64
+Foggy,Not Working,Urban,Auto,Weekday,Morning,Yes,Good,Medium,North,255,19,68,134,5,27
+Cloudy,Working,Industrial,Bike,Weekend,Evening,Yes,Poor,Low,South,234,45,106,127,5,107
+Clear,Not Working,Urban,Truck,Weekday,Night,No,Poor,Low,North,431,43,14,43,3,44
+Foggy,Working,Highway,Bike,Weekday,Afternoon,Yes,Moderate,Medium,West,545,82,44,118,3,68
+Clear,Working,Urban,Bus,Weekend,Afternoon,No,Good,Low,West,428,37,114,142,4,89
+Foggy,Not Working,Highway,Bike,Weekend,Evening,Yes,Good,High,East,96,20,28,18,2,155
+Foggy,Not Working,Urban,Car,Weekend,Evening,No,Poor,High,West,935,87,103,62,2,161
+Rainy,Not Working,Highway,Bus,Weekday,Night,No,Poor,Low,South,789,48,48,162,3,93
+Clear,Not Working,Highway,Truck,Weekday,Afternoon,Yes,Good,High,East,600,56,116,80,2,35
+Cloudy,Working,Highway,Car,Weekday,Afternoon,Yes,Good,Low,West,577,28,64,162,3,24
+Cloudy,Not Working,Industrial,Bus,Weekend,Afternoon,No,Good,Medium,South,553,24,66,146,5,134
+Clear,Working,Urban,Truck,Weekend,Afternoon,No,Good,Low,West,71,37,91,147,4,157
+Cloudy,Not Working,Urban,Car,Weekday,Afternoon,Yes,Good,Medium,West,262,33,21,99,1,17
+Cloudy,Not Working,Urban,Car,Weekend,Morning,Yes,Good,High,North,359,81,69,162,4,126
+Clear,Not Working,Highway,Bus,Weekend,Evening,No,Moderate,Medium,West,710,18,99,159,3,107
+Foggy,Working,Urban,Auto,Weekend,Morning,Yes,Good,High,West,802,56,99,121,3,110
+Clear,Not Working,Urban,Car,Weekday,Afternoon,No,Poor,Low,South,321,42,110,175,4,123
+Foggy,Not Working,Highway,Car,Weekend,Night,No,Moderate,High,South,620,71,61,43,3,74
+Cloudy,Not Working,Residential,Truck,Weekend,Night,Yes,Good,Low,North,848,28,59,103,2,103
+Cloudy,Not Working,Highway,Bike,Weekday,Afternoon,Yes,Poor,Low,West,987,76,110,151,2,86
+Cloudy,Working,Urban,Bus,Weekday,Afternoon,Yes,Moderate,Medium,North,251,83,57,60,3,79
+Rainy,Not Working,Highway,Bus,Weekend,Night,Yes,Poor,Medium,West,81,49,60,124,3,122
+Foggy,Working,Residential,Auto,Weekend,Morning,Yes,Good,Medium,East,492,56,102,144,2,88
+Rainy,Working,Highway,Auto,Weekday,Morning,No,Good,Medium,East,211,74,13,70,3,73
+Rainy,Working,Urban,Bus,Weekday,Afternoon,No,Good,High,North,816,38,26,106,3,63
+Clear,Working,Residential,Auto,Weekend,Morning,Yes,Good,High,North,303,59,17,49,4,130
+Rainy,Working,Industrial,Truck,Weekend,Night,Yes,Moderate,High,North,570,22,93,64,1,115
+Clear,Working,Urban,Bus,Weekend,Morning,Yes,Moderate,Low,South,700,10,52,98,2,66
+Clear,Not Working,Residential,Auto,Weekend,Afternoon,No,Poor,High,South,529,43,22,31,4,148
+Rainy,Working,Residential,Bus,Weekday,Night,Yes,Good,High,South,59,57,119,163,1,132
+Foggy,Working,Industrial,Bike,Weekend,Morning,Yes,Poor,High,North,775,86,80,140,3,109
+Foggy,Working,Highway,Car,Weekend,Evening,No,Moderate,Medium,West,554,57,44,197,3,72
+Foggy,Not Working,Highway,Bus,Weekday,Night,No,Good,High,East,834,58,21,57,4,19
+Foggy,Not Working,Urban,Car,Weekend,Night,Yes,Good,Low,North,885,73,19,127,3,39
+Foggy,Working,Industrial,Auto,Weekday,Evening,Yes,Moderate,Medium,South,609,70,110,141,5,18
+Rainy,Not Working,Highway,Car,Weekend,Evening,Yes,Moderate,Low,South,485,38,19,164,4,106
+Rainy,Working,Industrial,Bus,Weekend,Night,No,Moderate,High,North,160,48,83,111,1,104
+Cloudy,Working,Highway,Bike,Weekday,Evening,Yes,Moderate,Medium,North,202,97,67,67,4,11
+Foggy,Not Working,Residential,Auto,Weekday,Afternoon,Yes,Moderate,Low,South,684,35,43,39,2,34
+Rainy,Working,Highway,Bus,Weekend,Afternoon,Yes,Good,High,West,966,26,17,186,4,53
+Cloudy,Not Working,Industrial,Auto,Weekend,Afternoon,No,Moderate,Low,South,918,80,85,143,3,148
+Foggy,Not Working,Residential,Truck,Weekend,Night,No,Good,Low,South,151,22,36,189,3,115
+Clear,Working,Residential,Car,Weekday,Evening,Yes,Good,Low,North,802,78,13,131,5,76
+Cloudy,Working,Residential,Truck,Weekend,Evening,Yes,Moderate,High,West,882,35,44,172,5,84
+Rainy,Not Working,Industrial,Bus,Weekday,Morning,No,Moderate,High,South,240,58,24,89,5,87
+Clear,Working,Urban,Bike,Weekday,Morning,No,Good,Low,South,778,76,94,27,1,46
+Clear,Working,Urban,Auto,Weekend,Evening,No,Moderate,Medium,East,612,16,95,95,5,21
+Clear,Working,Urban,Car,Weekday,Evening,No,Moderate,Medium,North,853,67,89,193,1,177
+Cloudy,Not Working,Industrial,Auto,Weekend,Evening,No,Moderate,High,East,130,58,86,30,5,11
+Rainy,Not Working,Residential,Bus,Weekend,Night,No,Poor,High,East,538,62,81,2,1,159
+Clear,Working,Urban,Auto,Weekend,Evening,No,Good,High,South,944,74,84,135,4,14
+Foggy,Not Working,Industrial,Car,Weekend,Morning,No,Poor,High,North,137,71,77,23,4,38
+Clear,Not Working,Urban,Bus,Weekend,Night,No,Moderate,High,West,243,26,67,14,3,40
+Clear,Not Working,Highway,Auto,Weekday,Evening,Yes,Poor,Medium,South,153,52,80,170,1,157
+Cloudy,Not Working,Urban,Bike,Weekday,Morning,Yes,Moderate,High,West,832,34,48,158,2,10
+Cloudy,Not Working,Urban,Bus,Weekend,Night,Yes,Poor,Low,West,145,12,42,44,3,156
+Rainy,Working,Residential,Bus,Weekend,Evening,No,Moderate,Low,North,472,88,87,193,4,150
+Foggy,Working,Industrial,Bike,Weekday,Evening,Yes,Poor,Medium,East,940,38,64,7,1,138
+Cloudy,Working,Residential,Truck,Weekday,Evening,No,Poor,Low,North,247,41,75,70,5,33
+Clear,Not Working,Residential,Car,Weekday,Night,No,Poor,Medium,West,50,35,103,107,2,130
+Rainy,Not Working,Residential,Truck,Weekday,Morning,Yes,Good,Medium,South,456,25,52,114,4,157
+Clear,Working,Residential,Auto,Weekend,Morning,No,Poor,Low,West,427,34,22,102,3,85
+Clear,Not Working,Residential,Bike,Weekend,Afternoon,Yes,Good,High,South,216,63,20,124,1,178
+Cloudy,Working,Urban,Truck,Weekday,Evening,Yes,Moderate,Low,South,558,37,59,56,2,156
+Rainy,Working,Residential,Bus,Weekend,Afternoon,Yes,Poor,Low,North,687,82,43,29,1,79
+Foggy,Working,Residential,Auto,Weekday,Afternoon,No,Moderate,Medium,West,362,65,72,145,5,30
+Foggy,Not Working,Industrial,Auto,Weekend,Morning,Yes,Moderate,Low,East,642,74,63,113,3,131
+Cloudy,Not Working,Highway,Truck,Weekday,Night,No,Poor,Medium,West,467,95,93,196,1,119
+Cloudy,Working,Urban,Truck,Weekend,Night,Yes,Good,High,West,812,89,100,116,4,130
+Rainy,Working,Urban,Bike,Weekday,Morning,Yes,Poor,High,East,730,50,66,166,3,32
+Foggy,Working,Urban,Car,Weekday,Night,Yes,Moderate,High,North,526,60,108,59,4,135
+Foggy,Working,Residential,Truck,Weekend,Afternoon,No,Moderate,Low,West,122,80,17,97,1,79
+Foggy,Not Working,Residential,Truck,Weekday,Evening,No,Poor,Medium,West,190,87,113,170,3,170
+Clear,Not Working,Residential,Bus,Weekend,Morning,No,Good,High,South,631,38,85,125,4,82
+Foggy,Working,Industrial,Auto,Weekend,Evening,Yes,Good,Medium,West,311,92,117,172,5,94
+Clear,Working,Highway,Car,Weekday,Night,Yes,Moderate,Medium,East,389,28,105,150,5,25
+Rainy,Not Working,Residential,Bus,Weekend,Evening,No,Moderate,High,South,357,75,10,196,1,58
+Clear,Not Working,Highway,Bike,Weekend,Night,No,Good,High,North,294,50,87,93,3,107
+Rainy,Working,Industrial,Bike,Weekend,Night,No,Poor,Medium,South,564,54,81,133,2,63
+Foggy,Working,Urban,Truck,Weekend,Afternoon,No,Moderate,High,East,386,24,64,183,3,76
+Foggy,Working,Residential,Truck,Weekend,Night,No,Good,Medium,East,624,12,94,121,5,24
+Rainy,Not Working,Highway,Bike,Weekday,Afternoon,No,Moderate,Medium,South,610,20,18,107,4,116
+Cloudy,Not Working,Highway,Truck,Weekend,Afternoon,Yes,Poor,High,North,125,62,99,3,2,63
+Rainy,Not Working,Residential,Car,Weekend,Afternoon,No,Good,Low,South,929,55,58,92,1,75
+Cloudy,Working,Urban,Truck,Weekend,Morning,Yes,Moderate,High,North,224,39,8,150,2,141
+Clear,Working,Urban,Auto,Weekend,Morning,Yes,Poor,Low,South,158,66,43,5,1,113
+Clear,Not Working,Urban,Truck,Weekend,Night,No,Moderate,Medium,East,232,27,76,31,2,133
+Clear,Not Working,Industrial,Bus,Weekday,Afternoon,No,Poor,Medium,West,241,60,29,105,1,161
+Foggy,Working,Highway,Car,Weekend,Morning,Yes,Poor,Low,West,114,57,81,145,1,60
+Clear,Not Working,Highway,Bus,Weekday,Afternoon,No,Good,Medium,North,898,75,36,14,2,39
+Cloudy,Not Working,Highway,Bus,Weekday,Evening,No,Poor,Low,North,523,17,63,167,2,127
+Clear,Working,Industrial,Auto,Weekday,Evening,Yes,Moderate,Low,North,832,31,106,121,1,135
+Rainy,Not Working,Highway,Car,Weekday,Evening,Yes,Poor,Medium,East,149,15,67,95,5,108
+Rainy,Working,Industrial,Car,Weekend,Night,Yes,Poor,Low,South,593,85,42,5,2,11
+Foggy,Working,Urban,Car,Weekday,Afternoon,No,Good,High,East,913,66,96,111,3,31
+Rainy,Working,Residential,Car,Weekday,Evening,Yes,Poor,High,West,177,45,57,119,4,5
+Cloudy,Working,Highway,Car,Weekend,Morning,No,Poor,Medium,North,501,88,98,122,1,176
+Clear,Working,Highway,Auto,Weekend,Evening,Yes,Moderate,Medium,South,963,66,71,190,1,91
+Foggy,Working,Urban,Truck,Weekend,Evening,Yes,Good,Low,West,418,58,32,66,4,45
+Clear,Working,Residential,Bus,Weekday,Evening,Yes,Good,Low,West,900,54,7,105,5,127
+Clear,Not Working,Industrial,Car,Weekend,Night,No,Good,Low,West,92,91,113,138,4,79
+Cloudy,Working,Residential,Truck,Weekend,Morning,No,Poor,Low,East,933,75,102,42,2,46
+Rainy,Working,Urban,Truck,Weekday,Afternoon,Yes,Good,High,North,468,86,84,144,4,121
+Rainy,Not Working,Urban,Bus,Weekend,Morning,Yes,Poor,High,West,537,54,26,95,1,165
+Clear,Not Working,Residential,Auto,Weekend,Afternoon,Yes,Poor,Medium,North,127,88,100,131,4,67
+Foggy,Not Working,Industrial,Bike,Weekend,Night,No,Moderate,Low,East,875,29,42,190,3,169
+Rainy,Working,Industrial,Bike,Weekend,Night,Yes,Moderate,Low,West,850,73,76,195,2,131
+Foggy,Not Working,Highway,Truck,Weekday,Night,No,Moderate,Medium,East,319,76,76,80,4,137
+Rainy,Working,Industrial,Bus,Weekend,Night,Yes,Moderate,Low,East,723,92,66,40,1,52
+Foggy,Working,Residential,Bike,Weekend,Afternoon,Yes,Moderate,Low,North,750,12,61,132,2,7
+Cloudy,Working,Urban,Truck,Weekday,Evening,Yes,Poor,Low,West,808,63,10,159,1,120
+Foggy,Working,Highway,Auto,Weekend,Afternoon,Yes,Poor,Low,East,949,87,82,197,5,179
+Cloudy,Not Working,Highway,Bike,Weekday,Morning,Yes,Good,Low,West,777,73,36,34,3,103
+Cloudy,Not Working,Urban,Truck,Weekend,Night,Yes,Poor,Medium,North,364,49,103,21,5,120
+Foggy,Working,Industrial,Truck,Weekday,Night,No,Poor,Low,East,974,68,14,192,3,18
+Cloudy,Working,Urban,Car,Weekday,Morning,Yes,Moderate,Medium,North,900,64,7,149,4,116
+Clear,Working,Industrial,Auto,Weekday,Afternoon,No,Poor,Low,West,951,71,63,111,2,65
+Cloudy,Not Working,Urban,Car,Weekday,Evening,Yes,Moderate,High,West,938,13,80,10,4,163
+Rainy,Working,Residential,Bus,Weekend,Evening,Yes,Good,High,North,994,69,53,2,3,99
+Foggy,Working,Industrial,Car,Weekday,Morning,No,Good,High,South,217,84,63,136,3,21
+Clear,Not Working,Residential,Car,Weekend,Evening,Yes,Poor,High,East,388,39,35,59,3,128
+Foggy,Not Working,Highway,Bike,Weekday,Afternoon,No,Good,Medium,West,242,11,97,75,1,28
+Rainy,Working,Urban,Truck,Weekday,Afternoon,No,Poor,Medium,West,502,71,73,86,2,120
+Rainy,Not Working,Highway,Auto,Weekday,Morning,Yes,Good,Low,East,332,58,66,13,4,155
+Rainy,Not Working,Highway,Car,Weekend,Afternoon,No,Moderate,High,North,385,18,56,17,4,86
+Cloudy,Working,Highway,Auto,Weekday,Night,No,Moderate,Medium,North,439,40,93,112,5,54
+Cloudy,Not Working,Highway,Car,Weekend,Morning,Yes,Moderate,Low,North,574,70,45,72,3,83
+Foggy,Working,Urban,Bus,Weekend,Afternoon,No,Moderate,Low,South,289,88,35,22,3,83
+Foggy,Not Working,Highway,Car,Weekend,Morning,Yes,Poor,Medium,South,881,57,89,82,3,74
+Clear,Working,Urban,Bike,Weekend,Evening,Yes,Good,High,West,532,34,88,124,4,31
+Clear,Working,Urban,Truck,Weekend,Afternoon,Yes,Poor,Low,North,708,45,107,174,5,19
+Foggy,Working,Residential,Bus,Weekend,Night,Yes,Moderate,High,East,765,17,26,68,1,54
+Cloudy,Not Working,Industrial,Car,Weekend,Afternoon,No,Poor,High,West,641,82,8,46,2,40
+Rainy,Working,Industrial,Auto,Weekend,Morning,Yes,Good,High,East,940,67,17,115,1,12
+Foggy,Not Working,Urban,Bus,Weekend,Morning,Yes,Poor,Low,West,604,54,49,29,4,83
+Clear,Working,Residential,Bus,Weekday,Afternoon,No,Good,High,South,507,71,46,24,3,135
+Cloudy,Working,Urban,Car,Weekday,Night,Yes,Poor,Low,West,138,48,118,155,2,51
+Foggy,Not Working,Urban,Bus,Weekday,Night,Yes,Good,High,South,709,67,53,111,4,109
+Foggy,Working,Urban,Auto,Weekday,Night,No,Good,Low,West,144,90,24,24,4,102
+Cloudy,Working,Residential,Bus,Weekday,Morning,No,Moderate,High,North,501,92,81,73,4,100
+Foggy,Not Working,Industrial,Auto,Weekend,Afternoon,No,Good,Medium,East,477,73,85,57,2,164
+Cloudy,Working,Residential,Car,Weekend,Evening,No,Moderate,High,North,200,53,58,93,2,120
+Rainy,Working,Highway,Truck,Weekend,Morning,No,Moderate,High,West,563,38,40,118,5,17
+Cloudy,Working,Residential,Bus,Weekend,Night,No,Moderate,Low,West,425,68,101,126,5,5
+Cloudy,Working,Residential,Truck,Weekend,Afternoon,No,Poor,Low,West,71,80,5,168,1,38
+Cloudy,Not Working,Residential,Auto,Weekend,Night,Yes,Poor,High,South,932,18,19,24,2,83
+Foggy,Not Working,Residential,Bus,Weekend,Evening,No,Poor,Medium,East,362,15,81,77,2,82
+Foggy,Working,Industrial,Bike,Weekday,Night,No,Poor,Medium,East,889,38,21,98,2,125
+Cloudy,Not Working,Highway,Truck,Weekday,Night,No,Good,Low,West,568,67,28,115,5,97
+Foggy,Working,Industrial,Bus,Weekday,Evening,Yes,Good,Medium,West,255,26,62,47,4,102
+Clear,Not Working,Industrial,Truck,Weekday,Afternoon,Yes,Poor,High,South,424,25,76,9,3,86
+Clear,Working,Residential,Bus,Weekend,Morning,No,Good,Low,North,500,96,118,98,5,163
+Foggy,Working,Urban,Car,Weekend,Afternoon,No,Good,High,North,675,12,95,10,2,157
+Foggy,Working,Urban,Truck,Weekend,Evening,No,Moderate,Low,East,833,30,113,84,5,42
+Cloudy,Working,Industrial,Bike,Weekday,Night,Yes,Moderate,Low,South,644,73,27,148,1,18
+Rainy,Working,Industrial,Bike,Weekend,Afternoon,Yes,Moderate,Low,West,228,99,50,172,2,140
+Foggy,Working,Residential,Auto,Weekend,Morning,No,Moderate,Low,East,259,45,76,134,1,95
+Clear,Not Working,Industrial,Bus,Weekend,Evening,Yes,Good,Medium,South,549,95,12,191,2,58
+Cloudy,Working,Residential,Truck,Weekday,Afternoon,No,Poor,High,North,513,71,63,125,5,134
+Foggy,Not Working,Urban,Auto,Weekend,Morning,Yes,Good,High,South,889,51,94,63,4,105
+Clear,Working,Urban,Truck,Weekday,Evening,Yes,Good,High,North,173,85,115,1,3,93
+Clear,Not Working,Highway,Bus,Weekday,Morning,No,Good,Low,South,162,51,63,75,1,60
+Rainy,Not Working,Urban,Bike,Weekday,Evening,No,Moderate,Medium,East,61,70,17,120,5,98
+Cloudy,Not Working,Industrial,Car,Weekday,Night,No,Moderate,High,North,175,22,43,41,4,97
+Cloudy,Working,Urban,Bike,Weekend,Afternoon,No,Moderate,Medium,East,614,20,105,53,5,88
+Rainy,Working,Residential,Auto,Weekday,Morning,Yes,Poor,Low,East,380,63,117,74,1,89
+Rainy,Not Working,Urban,Car,Weekday,Evening,Yes,Good,High,North,950,25,32,15,3,26
+Cloudy,Working,Highway,Auto,Weekend,Morning,Yes,Poor,Medium,North,332,17,93,17,5,39
+Cloudy,Not Working,Urban,Bus,Weekend,Morning,No,Moderate,Low,West,189,68,65,186,2,20
+Foggy,Working,Residential,Car,Weekday,Afternoon,Yes,Poor,Medium,West,450,66,20,89,4,54
+Foggy,Not Working,Residential,Auto,Weekend,Night,No,Good,High,West,951,49,6,143,5,126
+Rainy,Not Working,Industrial,Bus,Weekday,Morning,Yes,Good,High,East,146,68,86,5,4,132
+Foggy,Working,Urban,Bike,Weekday,Evening,No,Moderate,Low,East,566,11,21,184,2,117
+Clear,Not Working,Residential,Bus,Weekday,Evening,No,Moderate,Low,West,618,85,34,107,3,175
+Foggy,Working,Highway,Truck,Weekday,Night,Yes,Poor,Low,East,973,19,107,174,3,21
+Foggy,Not Working,Industrial,Bus,Weekend,Evening,No,Moderate,Medium,East,895,53,17,47,2,84
+Clear,Not Working,Highway,Bus,Weekday,Night,No,Moderate,Medium,North,118,20,100,41,4,134
+Rainy,Working,Urban,Truck,Weekend,Evening,Yes,Good,Medium,North,167,88,118,75,5,136
+Clear,Working,Urban,Auto,Weekend,Afternoon,No,Moderate,Low,East,937,89,97,187,2,89
+Foggy,Working,Urban,Auto,Weekend,Morning,No,Moderate,High,West,108,90,114,76,1,171
+Rainy,Not Working,Industrial,Bus,Weekend,Afternoon,No,Good,High,South,82,99,98,131,4,98
+Foggy,Working,Residential,Truck,Weekday,Morning,Yes,Good,Medium,West,367,11,86,129,3,138
+Clear,Not Working,Industrial,Truck,Weekend,Morning,Yes,Poor,Medium,South,99,59,17,58,2,85
+Clear,Not Working,Highway,Bike,Weekday,Morning,No,Moderate,High,West,929,21,47,154,3,73
+Foggy,Working,Industrial,Auto,Weekend,Afternoon,Yes,Good,High,North,538,99,89,26,4,73
+Cloudy,Working,Highway,Car,Weekend,Morning,No,Poor,Medium,East,68,32,98,78,3,152
+Cloudy,Not Working,Industrial,Auto,Weekday,Afternoon,No,Poor,Medium,East,775,27,25,71,2,20
+Clear,Not Working,Residential,Auto,Weekday,Night,No,Moderate,High,North,246,71,116,6,4,55
+Clear,Working,Highway,Bike,Weekday,Evening,No,Moderate,Low,South,940,71,59,190,1,109
+Cloudy,Working,Urban,Car,Weekend,Evening,No,Poor,Medium,South,499,47,85,110,2,169
+Cloudy,Working,Urban,Bike,Weekend,Morning,Yes,Good,High,South,608,76,44,118,5,174
+Foggy,Working,Industrial,Car,Weekday,Afternoon,No,Poor,High,North,728,47,87,173,2,70
+Foggy,Working,Urban,Bus,Weekday,Evening,Yes,Moderate,High,South,501,76,19,62,4,13
+Cloudy,Not Working,Highway,Car,Weekday,Afternoon,Yes,Good,High,North,338,70,77,123,2,111
+Foggy,Not Working,Urban,Bike,Weekday,Afternoon,No,Good,Low,West,190,10,56,11,1,104
+Foggy,Not Working,Residential,Auto,Weekend,Morning,No,Poor,High,West,133,54,78,140,1,90
+Rainy,Not Working,Residential,Car,Weekday,Evening,Yes,Moderate,Medium,North,743,37,112,42,5,68
+Foggy,Working,Industrial,Car,Weekday,Morning,Yes,Poor,Low,East,440,30,99,16,3,26
+Clear,Working,Highway,Truck,Weekday,Morning,Yes,Poor,High,West,640,22,57,62,4,166
+Foggy,Working,Residential,Auto,Weekday,Evening,No,Poor,Low,South,264,36,91,119,4,161
+Foggy,Not Working,Residential,Bus,Weekend,Evening,Yes,Good,Medium,North,575,16,56,35,3,170
+Cloudy,Not Working,Highway,Bike,Weekday,Night,No,Good,High,South,264,31,34,7,1,114
+Clear,Working,Urban,Bus,Weekend,Night,No,Moderate,Medium,South,452,83,37,68,1,101
+Foggy,Working,Urban,Auto,Weekday,Afternoon,No,Moderate,High,East,177,62,61,89,2,22
+Foggy,Not Working,Industrial,Car,Weekday,Evening,Yes,Poor,High,South,871,88,56,35,5,75
+Rainy,Not Working,Urban,Car,Weekend,Night,No,Poor,High,East,526,88,13,27,5,131
+Foggy,Working,Highway,Auto,Weekday,Afternoon,No,Poor,High,West,809,13,58,117,5,101
+Foggy,Working,Residential,Car,Weekend,Afternoon,No,Moderate,High,North,453,32,115,92,2,5
+Rainy,Not Working,Urban,Car,Weekend,Afternoon,No,Good,Low,South,78,79,5,174,5,136
+Cloudy,Working,Industrial,Car,Weekday,Night,No,Good,High,North,841,97,48,75,3,8
+Foggy,Working,Urban,Bike,Weekend,Evening,Yes,Poor,High,South,387,93,103,100,2,129
+Rainy,Working,Highway,Bike,Weekend,Morning,No,Poor,Low,North,880,93,79,157,3,86
+Clear,Not Working,Industrial,Truck,Weekend,Afternoon,No,Poor,Low,South,763,85,102,150,2,31
+Cloudy,Not Working,Urban,Bus,Weekend,Night,Yes,Poor,Low,South,410,42,84,143,5,175
+Clear,Not Working,Industrial,Auto,Weekend,Night,No,Moderate,Low,South,618,37,13,13,3,63
+Clear,Not Working,Highway,Auto,Weekend,Morning,Yes,Good,Low,South,441,17,36,70,3,36
+Rainy,Not Working,Residential,Auto,Weekend,Morning,No,Poor,Low,South,267,10,19,179,3,165
+Foggy,Not Working,Highway,Truck,Weekend,Night,Yes,Moderate,High,South,623,46,16,123,2,32
+Rainy,Not Working,Highway,Bike,Weekday,Evening,Yes,Poor,High,South,718,72,101,124,4,110
+Rainy,Working,Highway,Truck,Weekday,Morning,No,Poor,Medium,South,251,31,113,36,5,109
+Rainy,Working,Highway,Auto,Weekend,Night,No,Good,High,South,66,79,82,28,3,74
+Rainy,Working,Residential,Bus,Weekday,Morning,No,Poor,High,North,371,30,61,194,4,66
+Cloudy,Working,Residential,Car,Weekend,Evening,Yes,Good,Low,East,567,44,12,142,5,38
+Foggy,Working,Industrial,Bike,Weekend,Afternoon,Yes,Good,Low,South,619,88,76,174,5,91
+Clear,Working,Urban,Bike,Weekday,Morning,Yes,Good,High,East,374,14,31,173,3,118
+Clear,Working,Residential,Truck,Weekend,Evening,No,Moderate,Medium,South,461,69,66,179,3,110
+Foggy,Not Working,Residential,Bike,Weekend,Night,Yes,Moderate,Low,South,367,55,16,18,2,60
+Clear,Not Working,Urban,Auto,Weekend,Morning,Yes,Good,High,North,730,59,69,105,4,117
+Foggy,Working,Residential,Auto,Weekend,Morning,No,Poor,High,West,131,57,111,20,4,17
+Clear,Working,Highway,Truck,Weekday,Night,Yes,Good,Medium,West,523,15,108,63,3,22
+Rainy,Not Working,Highway,Auto,Weekend,Afternoon,Yes,Poor,Medium,North,517,98,46,164,5,117
+Clear,Working,Urban,Bus,Weekend,Night,No,Good,Low,East,474,65,66,26,3,175
+Foggy,Working,Industrial,Truck,Weekend,Morning,Yes,Poor,Medium,West,994,68,119,54,5,43
+Foggy,Not Working,Industrial,Bus,Weekday,Night,No,Moderate,High,North,780,38,15,28,5,174
+Foggy,Working,Urban,Car,Weekend,Evening,No,Poor,High,North,738,80,107,147,3,83
+Foggy,Not Working,Urban,Bus,Weekday,Night,No,Good,Medium,West,253,86,47,24,1,150
+Foggy,Working,Highway,Car,Weekday,Morning,No,Moderate,Medium,East,632,27,99,69,4,155
+Cloudy,Not Working,Industrial,Car,Weekend,Night,No,Poor,Medium,North,436,11,21,62,5,34
+Cloudy,Not Working,Residential,Bus,Weekend,Afternoon,Yes,Poor,Medium,South,827,17,101,163,5,102
+Clear,Not Working,Highway,Truck,Weekday,Night,Yes,Poor,Low,East,147,84,36,129,1,62
+Foggy,Working,Urban,Auto,Weekend,Afternoon,No,Poor,Medium,East,394,63,97,149,2,71
+Clear,Not Working,Industrial,Auto,Weekday,Evening,No,Poor,Low,West,852,47,89,15,1,75
+Foggy,Working,Residential,Car,Weekday,Afternoon,Yes,Moderate,High,West,257,57,89,145,1,150
+Foggy,Working,Residential,Car,Weekend,Night,No,Moderate,Medium,South,563,36,44,196,5,110
+Cloudy,Working,Highway,Truck,Weekend,Morning,No,Moderate,Low,North,685,29,27,181,4,11
+Cloudy,Working,Industrial,Bike,Weekday,Afternoon,No,Moderate,Medium,West,841,21,60,99,1,44
+Rainy,Not Working,Industrial,Bus,Weekday,Evening,Yes,Good,High,West,635,52,10,29,2,74
+Cloudy,Not Working,Urban,Car,Weekday,Afternoon,Yes,Moderate,High,East,215,70,90,44,3,72
+Rainy,Working,Industrial,Auto,Weekday,Afternoon,No,Poor,High,West,71,40,54,18,1,53
+Rainy,Working,Industrial,Truck,Weekend,Afternoon,No,Poor,Medium,West,203,70,106,33,1,56
+Rainy,Not Working,Highway,Bus,Weekend,Evening,Yes,Moderate,Medium,West,988,83,41,140,2,118
+Rainy,Working,Industrial,Truck,Weekend,Night,Yes,Poor,Low,West,488,76,113,170,4,111
+Rainy,Not Working,Residential,Bus,Weekend,Afternoon,No,Moderate,High,East,344,44,68,61,1,33
+Clear,Working,Highway,Bus,Weekend,Afternoon,No,Poor,Medium,South,268,24,119,117,1,153
+Cloudy,Working,Highway,Car,Weekday,Morning,Yes,Good,High,South,718,25,58,99,4,82
+Rainy,Not Working,Urban,Truck,Weekend,Evening,Yes,Good,High,North,544,22,76,21,2,13
+Foggy,Working,Industrial,Truck,Weekend,Afternoon,Yes,Moderate,Low,West,279,44,109,179,1,179
+Cloudy,Not Working,Urban,Auto,Weekend,Evening,No,Moderate,Low,East,69,84,53,179,4,80
+Cloudy,Working,Residential,Auto,Weekend,Afternoon,Yes,Moderate,Low,North,602,68,103,110,1,46
+Rainy,Working,Highway,Car,Weekend,Night,No,Poor,Low,North,999,30,119,163,3,132
+Clear,Working,Highway,Car,Weekday,Night,Yes,Moderate,High,South,197,63,15,72,5,24
+Rainy,Not Working,Highway,Bike,Weekday,Afternoon,Yes,Good,Low,East,157,84,92,146,3,159
+Clear,Working,Residential,Auto,Weekday,Night,Yes,Poor,Low,East,452,39,53,37,1,170
+Foggy,Working,Residential,Bus,Weekend,Afternoon,Yes,Moderate,Low,East,645,57,25,69,2,76
+Cloudy,Working,Urban,Truck,Weekday,Night,No,Poor,Low,South,532,44,119,115,5,69
+Foggy,Working,Urban,Car,Weekday,Morning,No,Poor,High,South,416,95,70,78,3,117
+Clear,Not Working,Urban,Truck,Weekend,Morning,Yes,Moderate,Low,South,883,47,67,184,4,28
+Clear,Not Working,Industrial,Truck,Weekend,Morning,No,Poor,High,South,463,40,108,147,2,132
+Foggy,Working,Highway,Bike,Weekend,Evening,Yes,Good,Medium,South,358,87,87,8,3,179
+Clear,Not Working,Highway,Auto,Weekday,Evening,Yes,Good,High,West,851,33,107,31,4,87
+Foggy,Working,Urban,Car,Weekday,Morning,Yes,Poor,High,West,967,58,32,131,1,67
+Cloudy,Working,Highway,Truck,Weekend,Evening,Yes,Moderate,Low,East,884,41,21,49,4,64
+Foggy,Working,Urban,Car,Weekend,Night,No,Poor,Medium,North,183,64,10,81,3,103
+Cloudy,Not Working,Industrial,Bus,Weekday,Afternoon,Yes,Good,Medium,East,768,88,23,4,3,66
+Foggy,Not Working,Industrial,Bike,Weekday,Afternoon,Yes,Poor,Medium,North,332,67,60,147,1,34
+Clear,Not Working,Residential,Bus,Weekend,Afternoon,No,Poor,Medium,South,827,12,106,86,4,26
+Foggy,Not Working,Industrial,Car,Weekend,Morning,Yes,Good,High,North,122,89,32,125,4,130
+Clear,Not Working,Urban,Car,Weekday,Evening,Yes,Poor,Medium,East,530,78,70,74,1,161
+Foggy,Not Working,Industrial,Auto,Weekend,Night,Yes,Poor,High,East,401,94,42,164,4,173
+Foggy,Not Working,Residential,Truck,Weekday,Night,No,Moderate,High,North,609,19,41,21,1,46
+Rainy,Not Working,Highway,Truck,Weekday,Morning,Yes,Moderate,High,West,375,92,119,185,2,102
+Clear,Not Working,Urban,Bus,Weekday,Night,No,Good,Medium,South,794,34,72,67,3,35
+Rainy,Working,Highway,Bike,Weekday,Night,Yes,Good,Low,South,492,77,90,43,2,162
+Clear,Not Working,Residential,Truck,Weekend,Night,Yes,Good,Low,East,149,70,94,33,5,116
+Rainy,Not Working,Residential,Auto,Weekend,Night,No,Moderate,Medium,West,108,38,53,76,5,150
+Cloudy,Not Working,Residential,Bus,Weekday,Evening,Yes,Good,Low,North,557,28,47,41,5,126
+Foggy,Not Working,Highway,Bus,Weekday,Night,Yes,Good,Low,South,307,52,40,136,1,21
+Clear,Not Working,Highway,Auto,Weekday,Afternoon,No,Good,High,West,462,75,62,105,4,42
+Clear,Not Working,Highway,Bike,Weekday,Morning,No,Moderate,High,South,501,83,17,94,2,146
+Foggy,Not Working,Highway,Auto,Weekday,Evening,No,Poor,Medium,West,114,70,56,134,2,114
+Clear,Not Working,Residential,Bike,Weekend,Night,No,Good,Medium,West,644,52,62,67,2,26
+Clear,Not Working,Residential,Auto,Weekend,Evening,No,Poor,Low,East,203,34,36,146,2,60
+Rainy,Not Working,Urban,Auto,Weekend,Night,Yes,Good,High,South,315,29,85,158,5,123
+Clear,Not Working,Urban,Car,Weekend,Afternoon,No,Poor,Medium,North,870,57,109,127,2,151
+Cloudy,Working,Highway,Bus,Weekday,Morning,Yes,Moderate,Medium,East,128,92,104,162,4,61
+Cloudy,Working,Industrial,Auto,Weekday,Night,Yes,Moderate,Medium,East,364,96,64,184,5,176
+Foggy,Not Working,Industrial,Auto,Weekday,Night,Yes,Good,Medium,North,711,33,114,84,2,39
+Clear,Not Working,Residential,Truck,Weekday,Night,No,Poor,Medium,East,996,20,87,188,1,118
+Foggy,Working,Residential,Bus,Weekday,Night,No,Moderate,Medium,West,609,64,62,158,3,129
